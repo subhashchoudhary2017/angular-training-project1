@@ -1,0 +1,64 @@
+[{
+  "Id": 1,
+  "Type": "House1",
+  "Price": 2000000,
+  "Name": "Birla House1",
+  "SellRent": 1,
+  "Image": "Home_Default"
+},
+{
+  "Id": 2,
+  "Type": "House2",
+  "Price": 2000000,
+  "Name": "Birla House2",
+  "SellRent": 1,
+  "Image": "Home_Default"
+},
+{
+  "Id": 3,
+  "Type": "House3",
+  "Price": 2000000,
+  "Name": "Birla House3",
+  "SellRent": 2,
+  "Image": "prop-1"
+},
+{
+  "Id": 4,
+  "Type": "House4",
+  "Price": 2000000,
+  "Name": "Birla House4",
+  "SellRent": 1,
+  "Image": "Home_Default"
+},
+{
+  "Id": 5,
+  "Type": "House5",
+  "Price": 2000000,
+  "Name": "Birla House5",
+  "SellRent": 2,
+  "Image": "Home_Default"
+},
+{
+  "Id": 6,
+  "Type": "House6",
+  "Price": 2000000,
+  "Name": "Birla House6",
+  "SellRent": 2,
+  "Image": "prop-1"
+},{
+  "Id": 7,
+  "Type": "House7",
+  "Price": 2000000,
+  "Name": "Birla House7",
+  "SellRent": 1,
+  "Image": "Home_Default"
+},
+{
+  "Id": 8,
+  "Type": "House8",
+  "Price": 2000000,
+  "Name": "Birla House8",
+  "SellRent": 2,
+  "Image": "Home_Default"
+}
+]

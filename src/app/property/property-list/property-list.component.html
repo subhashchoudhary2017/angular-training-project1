@@ -1,1 +1,5 @@
-<p>property-list works!</p>
+<div class="row">
+  <div class="col-sm-4 p-3" *ngFor="let property of properties">
+    <app-property-cart [property] ="property"></app-property-cart>
+  </div>
+</div>
